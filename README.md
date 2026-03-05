@@ -12,3 +12,11 @@ The worst/best operating system
 God how long of a list can I make. I hate myself.
  
 - Add further ideas here
+
+- Trinity focus on making main AI model. face of the OS
+
+- Jess focus on social media, ideas for other features, big scale vision of the OS
+
+- Tyrek and Brandon focus on actually building something, aka doing all of the hard work. picking out a base OS and getting a bedrock we can build up from
+
+- I don't know what Turner does. 
